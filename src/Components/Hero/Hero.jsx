@@ -13,7 +13,7 @@ import {
 import { Button, Container, Text, Row } from "../../globalStyles";
 import { AiOutlineRise } from "react-icons/ai";
 import { IconContext } from "react-icons";
-import rates from "../../data/rates.json";
+import rates from "../../Data/rates.json";
 import { motion } from "framer-motion";
 import CurrencyInput from "./CurrencyInput";
 
