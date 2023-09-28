@@ -89,7 +89,7 @@ The app is deployed using Netlify.
 
 > 
 
-- [Live Demo Link](	https://google.com)
+- [Live Demo Link]( https://currency-swap-pro.netlify.app/)
 
 ### Usage
 1. Launch the app by following the instructions under "Running the Development Server."
